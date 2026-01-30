@@ -1,4 +1,3 @@
-# Small_Language_Model
 Small Language Model (SLM) – Tiny Stories
 =========================================
 
